@@ -1,4 +1,4 @@
-# This script explores Kaggle's Titanic data
+# Load in the Titanic data set.
 
 train <- read.csv("~/data/titanic/train.csv")
 test <- read.csv("~/data/titanic/test.csv")
